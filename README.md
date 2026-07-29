@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Pugmaster and I love coding! I am a Photographer and Videographer, and love developing. 
+My current project is called "Linely" (More coming soon) 
+I am learning python and js on Scrimba! 
+I would love to collab on some sort of finance or productivity app.
+I am part of the Apple Developer program and would love to learn swift! 
+I am a passionate mechanical keyboard snob! 
 <!--
 **Pugmaster50/Pugmaster50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
